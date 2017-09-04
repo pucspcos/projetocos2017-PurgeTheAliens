@@ -6,9 +6,9 @@ https://github.com/pucspcos/projetocos2017-arrowgame.wiki.git
 
 # Nome completo dos integrantes do projeto:
 
-* Raffael Sakai Vidottoe
-* Daniel Gonçalves de Sene
-* Matheus Luna
+* Raffael Sakai Vidotto RA00159218  
+* Daniel Gonçalves de Sene RA00167720
+* Matheus Luna RA00166174
 
 
 # Imagens do jogo:
