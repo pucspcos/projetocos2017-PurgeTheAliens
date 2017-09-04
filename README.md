@@ -2,10 +2,12 @@
 
 Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
 
+https://github.com/pucspcos/projetocos2017-arrowgame.wiki.git
+
 # Nome completo dos integrantes do projeto:
 
 * Raffael Sakai Vidottoe
-* Nome 2
+* Daniel Gonçalves de Sene
 * Matheus Luna
 
 
