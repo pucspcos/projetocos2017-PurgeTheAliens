@@ -1,6 +1,8 @@
-# Nome do projeto
+# ArrowGame (Nome pendente)
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+Arrow Game é um jogo baseado no jogo 2D sidescrollingShooter
+
+//Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
 
 https://github.com/pucspcos/projetocos2017-arrowgame.wiki.git
 
