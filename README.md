@@ -10,7 +10,7 @@ https://github.com/pucspcos/projetocos2017-arrowgame.wiki.git
 
 * Raffael Sakai Vidotto RA00159218 // Artista , Unity ?
 * Daniel Gonçalves de Sene RA00167720 // Programador
-* Matheus Luna RA00166174 // 
+* Matheus Luna RA00166174 // Artista
 
 
 # Imagens do jogo:
