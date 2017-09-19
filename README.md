@@ -28,9 +28,15 @@ Inserir aqui como instalar o jogo
 # Planejamento
 
 *Modificar programação
+
 *Fazer a arte do background
+
 *Fazer a arte dos personagens
+
 *Fazer a arte dos projeteis
+
 *Inserir efeitos / polida visual
+
 *Atualizar a pagina do github
+
 *Adicionar programação procedural(opcional)
