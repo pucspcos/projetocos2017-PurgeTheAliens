@@ -25,18 +25,8 @@ Colocar o link no Itch IO.
 
 Inserir aqui como instalar o jogo
 
-# Planejamento
-
-*Modificar programação
-
-*Fazer a arte do background
-
-*Fazer a arte dos personagens
-
-*Fazer a arte dos projeteis
-
-*Inserir efeitos / polida visual
-
-*Atualizar a pagina do github
-
-*Adicionar programação procedural(opcional)
+1-Faça o download do jogo nesse link : INSERIR LINK DO ITCH IO
+2-Instale 7Zip ou Winrar
+3-Extraia o arquivo no local desejado
+4-Rode "Inserir nome do executável" na pasta do jogo
+5-Divirta-se 
