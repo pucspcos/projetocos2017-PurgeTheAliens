@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 584424c701782c549b696dbbeb37128b
+timeCreated: 1502967910
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: a song for jennifer
+  fontNames:
+  - a song for jennifer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dafec52b8d7fdf846803916f31b771d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

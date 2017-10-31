@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/Intro.unity
+    guid: 0f71e109ba32430488741a0c7e5b712d
+  - enabled: 1
+    path: Assets/Cenas/Loading.unity
+    guid: b754b48aeecb58249ac887af8ed8877a
+  - enabled: 1
+    path: Assets/Cenas/Menu.unity
+    guid: 51f0b577354653d41b8919f717ea76f7
+  - enabled: 1
+    path: Assets/Cenas/LevelSelect.unity
+    guid: b61d5dcc6dfe9694aaf1c788eff4ceb4
+  - enabled: 1
+    path: Assets/Cenas/Level1.unity
+    guid: 123ba91cb6187bc4c8b43f5ba6247920
+  - enabled: 1
+    path: Assets/Cenas/Level2.unity
+    guid: 552debd282d311a4486a614708915077
+  - enabled: 1
+    path: Assets/Cenas/Level3.unity
+    guid: f3cda2f6bbce30f43b9379a3aa8d70b4
+  - enabled: 1
+    path: Assets/Cenas/Level4.unity
+    guid: 7bc672719115f134c9a739327c81f928
+  - enabled: 1
+    path: Assets/Cenas/Level5.unity
+    guid: a9f396605a3634b4a9b0cc1aef49120a
+  - enabled: 1
+    path: Assets/Cenas/GameOver.unity
+    guid: 00000000000000000000000000000000

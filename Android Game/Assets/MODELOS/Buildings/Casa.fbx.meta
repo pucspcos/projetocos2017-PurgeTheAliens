@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 7e5029e0b0f53c244a9f36d5a3865017
+timeCreated: 1508875300
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Luz
+    100004: Luz1
+    100006: Luz10
+    100008: Luz11
+    100010: Luz12
+    100012: Luz13
+    100014: Luz14
+    100016: Luz15
+    100018: Luz16
+    100020: Luz17
+    100022: Luz18
+    100024: Luz19
+    100026: Luz2
+    100028: Luz20
+    100030: Luz3
+    100032: Luz4
+    100034: Luz5
+    100036: Luz6
+    100038: Luz7
+    100040: Luz8
+    100042: Luz9
+    100044: polySurface30
+    100046: transform1
+    100048: Vidro
+    100050: Vidro1
+    100052: Vidro2
+    100054: Vidro3
+    100056: Vidro4
+    100058: Vidro5
+    100060: Vidro6
+    100062: Vidro7
+    400000: //RootNode
+    400002: Luz
+    400004: Luz1
+    400006: Luz10
+    400008: Luz11
+    400010: Luz12
+    400012: Luz13
+    400014: Luz14
+    400016: Luz15
+    400018: Luz16
+    400020: Luz17
+    400022: Luz18
+    400024: Luz19
+    400026: Luz2
+    400028: Luz20
+    400030: Luz3
+    400032: Luz4
+    400034: Luz5
+    400036: Luz6
+    400038: Luz7
+    400040: Luz8
+    400042: Luz9
+    400044: polySurface30
+    400046: transform1
+    400048: Vidro
+    400050: Vidro1
+    400052: Vidro2
+    400054: Vidro3
+    400056: Vidro4
+    400058: Vidro5
+    400060: Vidro6
+    400062: Vidro7
+    2300000: Luz
+    2300002: Luz1
+    2300004: Luz10
+    2300006: Luz11
+    2300008: Luz12
+    2300010: Luz13
+    2300012: Luz14
+    2300014: Luz15
+    2300016: Luz16
+    2300018: Luz17
+    2300020: Luz18
+    2300022: Luz19
+    2300024: Luz2
+    2300026: Luz20
+    2300028: Luz3
+    2300030: Luz4
+    2300032: Luz5
+    2300034: Luz6
+    2300036: Luz7
+    2300038: Luz8
+    2300040: Luz9
+    2300042: polySurface30
+    2300044: Vidro
+    2300046: Vidro1
+    2300048: Vidro2
+    2300050: Vidro3
+    2300052: Vidro4
+    2300054: Vidro5
+    2300056: Vidro6
+    2300058: Vidro7
+    3300000: Luz
+    3300002: Luz1
+    3300004: Luz10
+    3300006: Luz11
+    3300008: Luz12
+    3300010: Luz13
+    3300012: Luz14
+    3300014: Luz15
+    3300016: Luz16
+    3300018: Luz17
+    3300020: Luz18
+    3300022: Luz19
+    3300024: Luz2
+    3300026: Luz20
+    3300028: Luz3
+    3300030: Luz4
+    3300032: Luz5
+    3300034: Luz6
+    3300036: Luz7
+    3300038: Luz8
+    3300040: Luz9
+    3300042: polySurface30
+    3300044: Vidro
+    3300046: Vidro1
+    3300048: Vidro2
+    3300050: Vidro3
+    3300052: Vidro4
+    3300054: Vidro5
+    3300056: Vidro6
+    3300058: Vidro7
+    4300000: polySurface30
+    4300002: Luz
+    4300004: Luz1
+    4300006: Luz2
+    4300008: Luz3
+    4300010: Luz4
+    4300012: Luz5
+    4300014: Luz6
+    4300016: Luz7
+    4300018: Luz8
+    4300020: Luz9
+    4300022: Luz10
+    4300024: Vidro
+    4300026: Vidro1
+    4300028: Vidro2
+    4300030: Vidro3
+    4300032: Vidro4
+    4300034: Luz11
+    4300036: Luz12
+    4300038: Luz13
+    4300040: Luz14
+    4300042: Luz15
+    4300044: Luz16
+    4300046: Luz17
+    4300048: Luz18
+    4300050: Vidro5
+    4300052: Vidro6
+    4300054: Vidro7
+    4300056: Luz19
+    4300058: Luz20
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
