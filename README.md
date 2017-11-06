@@ -31,7 +31,7 @@ https://pitico.itch.io/purgue-the-aliens
 # Intruções
 
 
-* 1-Faça o download do jogo [aqui] (https://pitico.itch.io/purgue-the-aliens)
+* 1-Faça o download do jogo [aqui](https://pitico.itch.io/purgue-the-aliens)
 * 2-Instale 7Zip ou Winrar
 * 3-Extraia o arquivo no local desejado
 * 4-Rode "Inserir nome do executável" na pasta do jogo
