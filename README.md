@@ -26,7 +26,7 @@ Inserir imagens do jogo.
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
-Colocar o link no Itch IO.
+https://pitico.itch.io/purgue-the-aliens
 
 # Intruções
 
