@@ -1,6 +1,6 @@
-# ArrowGame (Nome pendente)
+# Purge The Aliens 
 
-Arrow Game é um jogo baseado no jogo 2D sidescrollingShooter
+Purge The Aliens é um jogo 3D shooter com visuais retro baseado no jogo 2D sidescrollingShooter
 
 //Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
 
