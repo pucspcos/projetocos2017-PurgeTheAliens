@@ -12,7 +12,7 @@ public class Objeto : MonoBehaviour
 
     void Update()
     {
-        if(transform.position.x > 700)
+        if(transform.position.x > 770)
         {
             Destroy(gameObject);
         }

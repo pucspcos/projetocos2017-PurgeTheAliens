@@ -123,3 +123,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidade: 130
   hp: 4
+  hit: {fileID: 1488136796398224, guid: d6f0e80e82564214cabcdfbed507725f, type: 2}
+  hpUp: {fileID: 1505270935056478, guid: d322b5fa0ee0fca48a9f581c55187926, type: 2}
+  levelUp: {fileID: 1970151412580072, guid: 73c5183fd797219408d3ae6f4e62c048, type: 2}

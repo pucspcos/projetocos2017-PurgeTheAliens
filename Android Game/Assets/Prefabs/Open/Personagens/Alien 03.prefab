@@ -38,7 +38,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1663428432082772}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -123,3 +123,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidade: 70
   hp: 8
+  hit: {fileID: 1488136796398224, guid: d6f0e80e82564214cabcdfbed507725f, type: 2}
+  hpUp: {fileID: 1505270935056478, guid: d322b5fa0ee0fca48a9f581c55187926, type: 2}
+  levelUp: {fileID: 1970151412580072, guid: 73c5183fd797219408d3ae6f4e62c048, type: 2}

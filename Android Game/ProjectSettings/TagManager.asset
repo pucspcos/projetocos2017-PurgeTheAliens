@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - Tiro
+  - LifeUp
+  - LevelUp
   layers:
   - Default
   - TransparentFX

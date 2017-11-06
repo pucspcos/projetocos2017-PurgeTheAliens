@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 734aa4dff7cb180438255e97fa16c13c
+timeCreated: 1509481803
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Shaka Pow
+  fontNames:
+  - Shaka Pow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

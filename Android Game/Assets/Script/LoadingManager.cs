@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 
 public class LoadingManager : MonoBehaviour
 {
-    public TextMesh percentual;
+    public TextMeshPro percentual;
     float percentualNum=0;
     AsyncOperation aop;
     // Use this for initialization

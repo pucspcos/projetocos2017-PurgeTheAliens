@@ -4,25 +4,20 @@ using UnityEngine;
 
 public class Tiro : MonoBehaviour
 {
-
+    public float direction = -100;
     void Start()
     {
-        GetComponent<Rigidbody>().velocity = new Vector3(-100,0,0);
+        GetComponent<Rigidbody>().velocity = new Vector3(direction, 0, 0);
     }
 
     void Update()
     {
-        if(transform.position.x <= 240)
+        if (direction < 0)
         {
-            Destroy(gameObject);
+            if (transform.position.x <= 240)
+            {
+                Destroy(gameObject);
+            }
         }
     }
-
-    //private void OnTriggerEnter(Collider other)
-    //{
-    //    if (other.CompareTag("Enemy"))
-    //    {
-    //        Destroy(gameObject);
-    //    }
-    //}
 }
