@@ -8,7 +8,7 @@ https://github.com/pucspcos/projetocos2017-arrowgame.wiki.git
 
 # Tabela de Conteudos.
 
-- [Membros do Grupo](# Nome-completo-dos-integrantes-do-projeto:)
+- [Membros do Grupo](#nome-completo-dos-integrantes-do-projeto:)
 - [Browser-Based](#user-content-browser-based)
   - [Boardgame](#user-content-boardgame)
   - [Arcade](#user-content-arcade)
