@@ -3,7 +3,7 @@
 Purge The Aliens é um jogo 3D shooter com visuais retro baseado no jogo 2D sidescrollingShooter
 
 
-https://github.com/pucspcos/projetocos2017-arrowgame.wiki.git
+https://github.com/pucspcos/projetocos2017-PurgeTheAliens/wiki
 
 # Tabela de Conteudos.
 
