@@ -20,8 +20,8 @@ https://github.com/pucspcos/projetocos2017-PurgeTheAliens/wiki
 
 
 # Imagens do jogo:
+https://github.com/pucspcos/projetocos2017-PurgeTheAliens/blob/master/Images/PurgeTheAliens!.png
 
-Inserir imagens do jogo.
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
